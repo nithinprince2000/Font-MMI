@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "font-mmi";
+    src: url("./font-mmi.eot?59bb9bae35f81a577be34ea3eea45970?#iefix") format("embedded-opentype"),
+url("./font-mmi.woff2?59bb9bae35f81a577be34ea3eea45970") format("woff2"),
+url("./font-mmi.woff?59bb9bae35f81a577be34ea3eea45970") format("woff"),
+url("./font-mmi.ttf?59bb9bae35f81a577be34ea3eea45970") format("truetype"),
+url("./font-mmi.svg?59bb9bae35f81a577be34ea3eea45970#font-mmi") format("svg");
+}
+
+i[class^="font-mmi-"]:before, i[class*=" font-mmi-"]:before {
+    font-family: font-mmi !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.font-mmi-camera:before {
+    content: "\f101";
+}
+.font-mmi-cloud-upload:before {
+    content: "\f102";
+}
+.font-mmi-cloud:before {
+    content: "\f103";
+}
+.font-mmi-connection:before {
+    content: "\f104";
+}
+.font-mmi-drone:before {
+    content: "\f105";
+}
+.font-mmi-globe:before {
+    content: "\f106";
+}
+.font-mmi-satelite:before {
+    content: "\f107";
+}
+.font-mmi-security:before {
+    content: "\f108";
+}
+.font-mmi-wallet:before {
+    content: "\f109";
+}

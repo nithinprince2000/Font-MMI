@@ -1,0 +1,11 @@
+{
+    "mmi-camera": "\\f101",
+    "mmi-cloud-upload": "\\f102",
+    "mmi-cloud": "\\f103",
+    "mmi-connection": "\\f104",
+    "mmi-drone": "\\f105",
+    "mmi-globe": "\\f106",
+    "mmi-satelite": "\\f107",
+    "mmi-security": "\\f108",
+    "mmi-wallet": "\\f109"
+}
